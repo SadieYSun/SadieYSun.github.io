@@ -1,0 +1,35 @@
+
+h1{
+	color:white;
+	position:relative;
+	text-align:center;
+	font-family: "Fjalla One", sans-serif;
+}
+.heading{
+	background-color:#091BE0;
+	width: 250px;
+	border-radius: 5px;
+}
+ul{
+	display:flex;
+}
+li{
+	margin-right:15px;
+	padding:10px;
+	list-style: none;
+	background-color:#09A3E0;
+}
+li:hover{
+	background-color: #8309E0;
+}
+a{
+	text-decoration: none;
+	color:white;
+	font-family: "Fjalla One", sans-serif;
+}
+img{
+	width:500px;
+}
+body{
+	background-color:#D6DBE1;
+}
