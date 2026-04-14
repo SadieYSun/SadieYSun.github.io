@@ -1,0 +1,44 @@
+body{
+	background-color:red;
+}
+.border{
+	border-style:solid;
+	border-color:white;
+}
+.smImg{
+	width:25%;
+}
+.background{
+	background-image: url("images/pexels-rafael-hideki-tamanaha-2150924239-31418358.jpg");
+}
+.lImg{
+	width:100%;
+	margin-top:25px;
+}
+.columns{
+	width:32%;
+	color:white;
+	float:left;
+}
+.columns:hover{
+	background-color:white;
+	color:black;
+}
+.header{
+	background-color:darkred;
+}
+.header li{
+	display:inline;
+}
+.navItem{
+	color:white;
+	text-decoration:none;
+}
+.footer{
+	background-color:white;
+	margin-top:700px;
+}
+.header a:hover{
+	background-color:white;
+	color:black;
+}
