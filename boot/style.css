@@ -1,0 +1,18 @@
+.card-img-top, .card{
+	width:18rem;
+}
+.col{
+	display:inline-block;
+}
+.card-body{
+	background-color: beige;
+}
+.btn-primary{
+	color:white;
+	background-color: black;
+	border-radius: 15px;
+	padding:5px;
+}
+.btn{
+	text-decoration: none;
+}
