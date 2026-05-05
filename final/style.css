@@ -1,0 +1,16 @@
+.nav{
+	background-color:darkred;
+	color:white;
+}
+.cardi img{
+	height:20rem;
+	width:25%;
+	object-fit:cover;
+}
+.lMore{
+	position:relative;
+	up:10px;
+}
+.cardi{
+	display: inline-block; 
+}
