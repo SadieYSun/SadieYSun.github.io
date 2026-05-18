@@ -2,7 +2,11 @@
 	width:18%;
 	height:auto;
 }
-
+.sadie{
+background-color: #9F2F2F;
+	color:white;
+	padding:5px;
+}
 .nav{
 	background-color:darkred;
 	color:white;
